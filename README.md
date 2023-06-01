@@ -1,2 +1,2 @@
 # sqat_node
-signup using node and mysql
+Nest js testing using jest
